@@ -1,0 +1,126 @@
+{
+margin: 0;
+    padding: 0;
+    
+}
+
+body{
+width: 900px;
+background-color: #002351;
+font-family:'Lucida Grande','Hiragino Kaku Gothic ProN',
+  sans-serif;
+}
+
+.main{
+    text-align: center;
+    width: 900px;
+    outline: hidden;
+    float: left;
+}
+
+.sidebar{
+    width: 200px;
+    padding: 20px;
+    margin-left: 5px;
+    float: right;
+    color: aliceblue;
+    
+}
+.container{
+    text-align: center;
+    width: 900px;
+    margin: auto;
+}
+
+.container2{
+    list-style-type: none;
+    color: #f2f1ef;
+    border: none;
+}
+
+#key-block{
+    margin-bottom: 30px;
+}
+
+
+#wrap{
+    margin-top: 100px;
+    width: 900px;
+
+}
+
+h1{
+    width: auto;
+    margin: auto;
+    color: #F2F1EF;
+    list-style-type: none;
+    
+}
+
+img{
+    float: left;
+}
+
+nav{
+    overflow: hidden;
+    background: #002351;
+    margin-bottom: 10px;
+    width: 900px;
+
+}
+
+nav li{
+    display: inline-block;
+    width: 130px;
+    height: 30px;
+    list-style-type: none;
+
+}
+
+nav a{
+    text-decoration: none;
+    border: none;
+    color: #F2F1EF;
+    border-radius: 0;
+    padding: 8px;
+    transition: 0.5s;
+}
+
+nav a:hover{
+    background: #6C7A89;
+    color: #F2F1EF;
+}
+
+.col-6{
+    margin-top: 10px;
+    width: 600px;
+    overflow: hidden;
+    margin-bottom: 20px;
+    list-style-type: none;
+    padding: 30px;
+    float: left;
+
+}
+
+.col-3{
+    width: 290px;
+    padding: 5px;
+    float: left;
+    overflow: hidden;
+
+}
+
+.col-4{
+    width: 290px;
+    padding: 5px;
+    float: left;
+    overflow: hidden;
+}
+
+
+h2{
+    color: #F2F1EF;
+    font-size: 15px;
+    border: none;
+   
+}
